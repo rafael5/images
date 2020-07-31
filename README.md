@@ -1,9 +1,7 @@
 # images
 Creative Commons images; free to use for any purpose without attribution
 
-
-License
-* https://unsplash.com/license
+https://unsplash.com/license
 
 Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, 
 modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, 
