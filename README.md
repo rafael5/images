@@ -1,5 +1,6 @@
-# images
-Images freely useable for any purpose.  Licensing information:
+# b4p images
+
+Images freely useable for b4p publications and documentation.
 
 https://unsplash.com/license
 
