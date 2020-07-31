@@ -1,5 +1,5 @@
 # images
-Creative Commons images; free to use for any purpose without attribution
+Images freely useable for any purpose.  Licensing information:
 
 https://unsplash.com/license
 
